@@ -1,0 +1,24 @@
+<ip11>
+	<schedule name="monday">
+		<item name="2" time="8.00" subject="СТП" audience="218" teacher="Зайцев"/>
+		<item name="1" time="9.50" subject="СПО" audience="419" teacher="Ефимов"/>
+		<item name="0" time="11.40" subject="БД" audience="425" teacher="Приставка"/>
+		<item name="1" time="13.45" subject="Программирование" audience="176" teacher="Перцев"/>
+	</schedule>
+	<schedule name="wednesday">
+		<item name="1" time="9.50" subject="СПО" audience="419" teacher="Ефимов"/>
+		<item name="2" time="11.40" subject="БД" audience="425" teacher="Приставка"/>
+	</schedule>
+	<schedule name="thursday">
+		<item name="0" time="8.00" subject="сети" audience="218" teacher="Зайцев"/>
+		<item name="0" time="9.50" subject="СПО" audience="419" teacher="Ефимов"/>
+		<item name="0" time="11.40" subject="БД" audience="425" teacher="Приставка"/>
+		<item name="0" time="13.45" subject="тервер" audience="176" teacher="Перцев"/>
+	</schedule>
+	<schedule name="friday">
+		<item name="1" time="8.00" subject="СТП" audience="218" teacher="Зайцев"/>
+		<item name="0" time="9.50" subject="СПО" audience="419" teacher="Ефимов"/>
+		<item name="2" time="11.40" subject="БД" audience="425" teacher="Приставка"/>
+		<item name="0" time="13.45" subject="Программирование" audience="176" teacher="Перцев"/>
+	</schedule>
+</ip11>
